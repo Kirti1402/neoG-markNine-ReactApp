@@ -1,0 +1,42 @@
+.App {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+body {
+  background-color: #edffec;
+}
+.header {
+  color: #187498;
+}
+
+.small {
+  font-size: small;
+}
+.container {
+  max-width: 800px;
+  margin: 2.5px auto;
+  display: flex;
+  justify-content: center;
+  background-color: #355764;
+  border-radius: 50px;
+  /* margin: 2.5px; */
+  border: 1px solid #e7ed9b;
+}
+ul {
+  text-align: left;
+  list-style: none;
+  color: #e5eff3;
+  font-weight: bold;
+}
+
+.btn {
+  color: #2c3333;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 10rem;
+  margin: 1rem;
+  padding: 1rem;
+  border: none;
+  background-color: #fecd70;
+}
